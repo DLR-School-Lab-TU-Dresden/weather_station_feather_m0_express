@@ -24,9 +24,9 @@ days = ("Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Satur
 
 #pylint: disable-msg=bad-whitespace
 #pylint: disable-msg=using-constant-test
-if True:   # change to True if you want to set the time!
+if False:   # change to True if you want to set the time!
     #                     year, mon, date, hour, min, sec, wday, yday, isdst
-    t = time.struct_time((2019,  08,   11,   23,  31,  0,    0,   -1,    -1))
+    t = time.struct_time((2019,  8,   11,   23,  33,  5,    0,   -1,    -1))
     # you must set year, mon, date, hour, min, sec and weekday
     # yearday is not supported, isdst can be set but we don't do anything with it at this time
     print("Setting time to:", t)     # uncomment for debugging
