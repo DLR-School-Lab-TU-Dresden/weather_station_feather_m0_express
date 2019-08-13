@@ -8,6 +8,6 @@ led.direction = digitalio.Direction.OUTPUT
 while True:
     print("Hello, CircuitPython!")
     led.value = True
-    time.sleep(0.1)
+    time.sleep(0.2)
     led.value = False
     time.sleep(1)
