@@ -3,6 +3,6 @@ During the summer lab at [Internationales Begegnungszentrum St. Marienthal](http
 
 [![Photo of the weather station in the field.](assets/images/2019-08-14_weather_station_IMG_6099.jpg)](assets/images/2019-08-14_weather_station_IMG_6099.jpg)
 
-This project is embeddeed into the fifth round of the citizen science project [„Plastikpiraten“](https://www.forschungs-werkstatt.de/aktuelles/plastikpiraten-waren-unterwegs/) of the [Kieler Forschungswerkstatt](https://www.forschungs-werkstatt.de/).
+This project is embedded into the fifth round of the citizen science project [„Plastikpiraten“](https://www.forschungs-werkstatt.de/aktuelles/plastikpiraten-waren-unterwegs/) of the [Kieler Forschungswerkstatt](https://www.forschungs-werkstatt.de/).
 
 We'd like to thank [Deutsch-Polnisches-Jugendwerk (DPJW)](https://www.dpjw.org/) for their kind support.
